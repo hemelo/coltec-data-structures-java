@@ -88,7 +88,3 @@ Existem duas possibilidades gerais de uso do projeto:
 * [Alocação Dinâmica x Estática]()
 * [Vetor x Lista Encadeada]()
 * [Tratamento de Erros em Java]()
-
-<!-- CONTATO -->
-## Contato
-Henrique Melo - [@noskybr](https://twitter.com/noskybr)
